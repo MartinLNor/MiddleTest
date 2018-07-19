@@ -1,0 +1,18 @@
+<div class="avancement">
+  <progress value="90" max="100">70%</progress>
+  <h2> EAU </h2>
+</div>
+<div class="container-form">
+  <form>
+    <% data.audit.each do |q|%>
+    <div class="container-question">
+      <h4><%= q.question %></h4>
+      <div class="radio-group">
+        <input type="radio" id="<%=q.id%>option-one" name="<%=q.id%>selector"><label for="<%=q.id%>option-one">Oui</label>
+        <input type="radio" id="<%=q.id%>option-two" name="<%=q.id%>selector"><label for="<%=q.id%>option-two">Non</label>
+        <input type="radio" id="<%=q.id%>option-three" name="<%=q.id%>selector"><label for="<%=q.id%>option-three">Non concerné</label>
+      </div>
+    </div>
+    <% end %>
+  </form>
+</div>

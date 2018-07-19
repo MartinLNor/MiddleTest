@@ -1,0 +1,90 @@
+- question: "Renseignez-vous Trimestriellement  le fichier mis en place par la cellule environnement sur le suivi des consommations d'eau ? "
+  id: 1
+- question: "Le Centre possède-t-il un plan du réseau d'assainissement A JOUR et CONFORME A LA REALITE ?"
+  id: 2
+- question: "Le réseau d'assainissement du centre est-il séparatif, c-à-d que les réseaux d'eaux usées et d'eaux pluviales sont séparés?"
+  id: 3
+- question: "Le centre est-il équipé d'un Séparateur d'Hydrocarbures ?"
+  id: 4
+- question: "Si le centre possède un séparateur d'hydrocarbures, confirmez-vous que celui-ci est entretenu au moins une fois par an par le prestataire référencé par le Siège?"
+  id: 5
+- question: "Si le centre possède un séparateur d'hydrocarbures et que celui-ci est entretenu au moins une fois par an par le prestataire référencé par le Siège, confirmez-vous que le BSD jaune est conservé 5 ans?"
+  id: 6
+- question: "Le centre est-il equipé d'accodrains ? "
+  id: 7
+- question: "Si le centre est équipé d'accodrains,  Un contrôle visuel est-il fait au moins une fois par mois par le Chef d'Atelier ou son Adjoint, pour s'assurer qu'ils ne sont pas obstrués?"
+  id: 8
+- question: "Le centre est-il équipé de doseurs MiniMix (code 6 : 246313) ? "
+  id: 9
+- question: "Si le centre n'est pas équipé de doseur minimix, Les collaborateurs de l'Atelier dosent-ils le détergent nettoyant sol ? "
+  id: 10
+- question: "Les chiffons MEWA sont-ils utilisés pour éponger les déversements de produits dangereux faits dans l'atelier ou le magasin?"
+  id: 11
+- question: "- utilisation de produits et matériels respectueux de l'environnement"
+  id: 12
+- question: "- dosage du détergent conforme aux recommandations du fournisseur"
+  id: 13
+- question: "- si les emballages sont jetés dans le centre, les jeter avec les bidons de l'atelier"
+  id: 14
+- question: "- déverser les eaux de la nettoyeuse électrique dans les eaux usées"
+  id: 15
+- question: "- utilisation de produits et matériels respectueux de l'environnement"
+  id: 16
+- question: "- si les emballages sont jetés dans le centre, les jeter avec les bidons de l'atelier"
+  id: 17
+- question: "- déverser les eaux de la nettoyeuse électrique dans les eaux usées"
+  id: 18
+- question: "Le Centre possède-t-il une copie de son autorisation de déversement des eaux usées dans le réseau d'assainissement public ou une copie de son certificat de conformité ?"
+  id: 19
+- question: "Dans les accodrains ? "
+  id: 20
+- question: "Dans le regard atelier ? "
+  id: 21
+- question: "Dans les bacs à laver ? "
+  id: 22
+- question: "Dans les toilettes ? "
+  id: 23
+- question: "Sur le Parking ou dans une grille du parking ? "
+  id: 24
+- question: "Y-a-t-il un regard EP a proximité immédiate de les cuves à huiles ou de l'emplacement du camion qui livre ou collecte les huiles ? "
+  id: 25
+- question: "Si oui, y-a-til toujours un collaborateur à proximité de la zone de dépotage ? "
+  id: 26
+- question: "Dans le reseau EP"
+  id: 27
+- question: "Dans le réseau EU "
+  id: 28
+- question: "Dans un bidon "
+  id: 29
+- question: "Dans le bac de rétention"
+  id: 30
+- question: "Le centre posséde t'il une cuve de récupération de l'eau pluviale ?"
+  id: 31
+- question: "Si le centre possède une cuve de récupération des eaux de pluie : en cas de dysfonctionnement de la cuve, contactez-vous le service travaux ou une entreprise spécialisée pour réaliser les travaux nécessaires?"
+  id: 32
+- question: "A proximité immédiate de chaque point de soutirage d'eau pluviale (pour le lavage du sol de l'atelier et les chasses d'eau) est implantée une plaque de signalisation qui comporte la mention « eau non potable » et un pictogramme explicite?"
+  id: 33
+- question: "― la propreté des équipements de récupération des eaux de pluie?"
+  id: 34
+- question: "― l’existence de la signalisation 'eau non potable' à proximité immédiate de tous les points de soutirage?"
+  id: 35
+- question: "― le cas échéant, le bon fonctionnement du système de disconnexion, entre le réseau de distribution d’eau potable et le réseau de distribution d’eau de pluie?"
+  id: 36
+- question: "― au nettoyage des filtres?"
+  id: 37
+- question: "― à la vidange, au nettoyage et à la désinfection de la cuve de stockage?"
+  id: 38
+- question: "― à la manœuvre des vannes et robinets de soutirage?"
+  id: 39
+- question: "― le nom et adresse de la personne physique ou morale chargée de l’entretien?"
+  id: 40
+- question: "― un plan des équipements de récupération d’eau de pluie, en faisant apparaître les canalisations et les robinets de soutirage des réseaux de distribution d’eau de pluie et d’alimentation humaine?"
+  id: 41
+- question: "― une fiche de mise en service, attestant de la conformité de l’installation avec la réglementation en vigueur, établie par la personne responsable de la mise en service de l’installation?"
+  id: 42
+- question: "― la date des vérifications réalisées et le détail des opérations d’entretien, y compris celles prescrites par les fournisseurs de matériels?"
+  id: 43
+- question: "― le relevé mensuel des index des systèmes d’évaluation des volumes d’eau de pluie utilisés à l’intérieur des bâtiments raccordés au réseau de collecte des eaux usées?"
+  id: 44
+- question: "Le Directeur de Centre a-t-il informé les collaborateurs du centre des modalités de fonctionnement des équipements?"
+  id: 45
