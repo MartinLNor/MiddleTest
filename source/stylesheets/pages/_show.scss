@@ -52,6 +52,8 @@ label + input[type='radio'] + label {
   border-radius: 10px;
   overflow: hidden;
   justify-content: space-around;
+  width: 37%;
+  margin:auto;
 }
 
 
@@ -98,6 +100,8 @@ progress[value]::-webkit-progress-bar {
   box-shadow: 1px 1px 1px rgba(213,216,224,0.2);
   margin-bottom: 5px;
   border-radius: 5px;
+  width: 97%;
+  margin: auto;
 }
 
 @media (max-width: 800px) {
