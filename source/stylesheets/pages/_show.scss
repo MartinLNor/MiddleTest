@@ -39,7 +39,7 @@ label {
 
 input[type='radio']:checked + label{
   color: lighten(white,60%);
-  background-color: navy;
+  background-color: #3278b999;
 }
 
 label + input[type='radio'] + label {
@@ -111,7 +111,7 @@ progress[value]::-webkit-progress-bar {
     margin: 0;
   }
   label {
-    color: #9a929e;
+    color: #7692b8;
     padding: 10px 0px;
 
     font-size: 0.7em;
